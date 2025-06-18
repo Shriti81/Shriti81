@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/coding.gif" width="400" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="coding gif" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Shriti Sadhu</h1>
 <h3 align="center">A passionate Computer Science & Engineering student from KIIT</h3>
