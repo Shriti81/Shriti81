@@ -59,16 +59,17 @@ ML model trained on used car data to predict prices, deployed using Flask and St
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shritisadhu&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shritisadhu&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shriti81&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shriti81&layout=compact&theme=radical" width="48%" />
 </p>
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shritisadhu&theme=radical&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shriti81&theme=radical&no-frame=true" />
 </p>
 
 ---
