@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="pixel girl coding" width="400"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Shriti Sadhu</h1>
 <h3 align="center">A passionate Computer Science & Engineering student from KIIT</h3>
