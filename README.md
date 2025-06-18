@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="girl coding gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/coding.gif" width="400" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shriti Sadhu</h1>
