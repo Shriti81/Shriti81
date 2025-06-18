@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Computer Science & Engineering student from KIIT</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shritisadhu&label=Profile%20views&color=0e75b6&style=flat" alt="shritisadhu" />
+  <img src="https://komarev.com/ghpvc/?username=Shriti81&label=Profile%20views&color=0e75b6&style=flat" alt="shritisadhu" />
 </p>
 
 ---
