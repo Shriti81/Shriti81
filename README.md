@@ -14,7 +14,7 @@
 - 💼 Member of **Kodessa**, the official AI/ML Society of KIIT
 - ☁️ Exploring Cloud platforms like AWS and GCP
 - 📫 Reach me at: **shritisadhu@gmail.com**
-- 📄 Resume: [https://drive.google.com/file/d/1Ba2adLB_J28cX82zqlUjvyB0Y9GdFSgr/view?usp=sharing](#) <!-- Add actual resume link -->
+- 📄 Resume: [https://drive.google.com/file/d/1Ba2adLB_J28cX82zqlUjvyB0Y9GdFSgr/view?usp=sharing] <!-- Add actual resume link -->
 
 ---
 
